@@ -1,4 +1,4 @@
-# ContactHub [![ContactHub logo](assets/contacthub-header.png)](https://contacthub.dev)
+# ContactHub [![ContactHub logo](../assets/contacthub-header.png)](https://contacthub.dev)
 
 > ⚠️ ContactHub is currently in development and is not yet ready for use. Please
 > check back soon for updates!
